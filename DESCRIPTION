@@ -1,0 +1,19 @@
+Type: Compendium
+Package: package_shmackage
+Title: Package for useful things
+Version: 0.0.1
+Authors@R: 
+    person(given = "Matt",
+           family = "Siegelman",
+           role = c("aut", "cre"),
+           email = "mes2338@columbia.edu",
+           comment = c(ORCID = "0000-0002-4093-8437"))
+Description: this is a good description
+License: What license it uses
+Depends: 
+    rmarkdown,
+    tidyverse,
+    tm,
+    topicmodels
+Encoding: UTF-8
+LazyData: true
